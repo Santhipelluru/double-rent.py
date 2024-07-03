@@ -1,2 +1,3 @@
-# double-rent.py
-print the double rent
+# cook your dish here
+n=int(input())
+print(2*n)
